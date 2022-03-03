@@ -1,4 +1,2 @@
 #!/bin/bash
-whoami
-echo password | su betty
-whoami
+su betty
